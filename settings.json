@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "LlamaBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Quallcolm.aternos.me",
+    "ip": "Quallcolm.aternos.me:51394",
     "port": 51394,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
